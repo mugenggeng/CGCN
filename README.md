@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a PyTorch implementation for our paper "`Explicit Long-term Gated Compressor for Online Action Detection and Anticipation`".
+This is a PyTorch implementation for our paper "`CGCN: Context Graph Convolutional Network for Few-Shot Temporal Action Localization`".
 
 ![network](framework.png?raw=true)
 
