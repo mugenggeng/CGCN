@@ -18,11 +18,11 @@ This is a PyTorch implementation for our paper "`CGCN: Context Graph Convolution
 1. Create conda environment
     ```shell script
     conda env create -f env.yml
-    source activate gtad
+    source activate cgcn
     ```
 2. Install `Align1D2.2.0`
     ```shell script
-    cd gtad_lib
+    cd cgcn_lib
     python setup.py install
     ```
 3. Test `Align1D2.2.0`
