@@ -15,8 +15,6 @@ This is a PyTorch implementation for our paper "`CGCN: Context Graph Convolution
 * pip install git+https://github.com/luizgh/visdom_logger.git
 
 ## Installation
-Based on the idea of ROI Alignment from Mask-RCNN, GTAD's author developed **SGAlign layer** in their implementation. You have to compile a short cuda code to run Algorithm 1 in [GTAD](https://arxiv.org/abs/1911.11462).
-
 1. Create conda environment
     ```shell script
     conda env create -f env.yml
