@@ -37,7 +37,5 @@ This is a PyTorch implementation for our paper "`CGCN: Context Graph Convolution
 
 This project is licensed under the Apache-2.0 License.
 
-## Acknowledgements
 
-This codebase is built upon [`fewQAT`](https://github.com/sauradip/fewshotQAT).
 
